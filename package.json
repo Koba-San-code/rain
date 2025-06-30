@@ -1,0 +1,12 @@
+{
+  "name": "dawn-dev-server",
+  "version": "1.0.0",
+  "description": "Local dev server with live reload for dawn homepage project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
